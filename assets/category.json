@@ -1,0 +1,36 @@
+﻿{
+  "status": 200,
+  "message": "Category List Found",
+  "body": [
+    {
+      "id": "1",
+      "imagePath": "images/door_handle.jpg",
+      "title": "Door Handle"
+    },
+    {
+      "id": "3",
+      "imagePath": "images/lock.jpeg",
+      "title": "Lock"
+    },
+    {
+      "id": "2",
+      "imagePath": "images/kitchen-door.jpeg",
+      "title": "Kitchen Door"
+    },
+    {
+      "id": "4",
+      "imagePath": "images/kitchen-door.jpeg",
+      "title": "Kitchen Door"
+    },
+    {
+      "id": "5",
+      "imagePath": "images/door_handle.jpg",
+      "title": "Door Handle"
+    },
+    {
+      "id": "6",
+      "imagePath": "images/kitchen-door.jpeg",
+      "title": "Kitchen Door"
+    }
+  ]
+}

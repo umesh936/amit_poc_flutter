@@ -1,0 +1,36 @@
+﻿{
+  "status": 200,
+  "message": "Product List Found",
+  "body": [
+    {
+      "id": "11",
+      "imagePath": "images/kdoor1.jpeg",
+      "name": "Kitchen Door",
+      "manufactureCount": "3"
+    },
+    {
+      "id": "21",
+      "imagePath": "images/kdoor2.jpeg",
+      "name": "Kitchen Door",
+      "manufactureCount": "5"
+    },
+    {
+      "id": "31",
+      "imagePath": "images/kdoor3.jpg",
+      "name": "Kitchen Door",
+      "manufactureCount": "3"
+    },
+    {
+      "id": "41",
+      "imagePath": "images/kdoor1.jpeg",
+      "name": "Kitchen Door",
+      "manufactureCount": "7"
+    },
+    {
+      "id": "51",
+      "imagePath": "images/kdoor2.jpeg",
+      "name": "Kitchen Door",
+      "manufactureCount": "3"
+    }
+  ]
+}

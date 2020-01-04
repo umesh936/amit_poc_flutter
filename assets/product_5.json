@@ -1,0 +1,60 @@
+﻿{
+  "status": 200,
+  "message": "Product List Found",
+  "body": [
+    {
+      "id": "1",
+      "imagePath": "images/handle1.jpeg",
+      "name": "Door Handle",
+      "manufactureCount": "3"
+    },
+    {
+      "id": "2",
+      "imagePath": "images/handle2.jpeg",
+      "name": "Door Handle",
+      "manufactureCount": "5"
+    },
+    {
+      "id": "3",
+      "imagePath": "images/handle3.jpeg",
+      "name": "Door Handle",
+      "manufactureCount": "3"
+    },
+    {
+      "id": "4",
+      "imagePath": "images/handle4.jpeg",
+      "name": "Door Handle",
+      "manufactureCount": "7"
+    },
+    {
+      "id": "5",
+      "imagePath": "images/handle2.jpeg",
+      "name": "Door Handle",
+      "manufactureCount": "3"
+    },
+    {
+      "id": "6",
+      "imagePath": "images/handle1.jpeg",
+      "name": "Door Handle",
+      "manufactureCount": "3"
+    },
+    {
+      "id": "7",
+      "imagePath": "images/handle3.jpeg",
+      "name": "Door Handle",
+      "manufactureCount": "8"
+    },
+    {
+      "id": "8",
+      "imagePath": "images/handle4.jpeg",
+      "name": "Door Handle",
+      "manufactureCount": "11"
+    },
+    {
+      "id": "9",
+      "imagePath": "images/handle1.jpeg",
+      "name": "Door Handle",
+      "manufactureCount": "3"
+    }
+  ]
+}
