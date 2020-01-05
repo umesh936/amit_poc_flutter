@@ -2,6 +2,8 @@ import 'package:amit_poc_flutter/model/product_model.dart';
 import 'package:amit_poc_flutter/services/product_service.dart';
 import 'package:flutter/material.dart';
 
+import 'manufacturer_list_screen.dart';
+
 class ItemScreen extends StatefulWidget {
   final String toolbarname;
   final String categoryId;
@@ -26,7 +28,6 @@ class item extends State<ItemScreen> {
 
   @override
   void initState() {
-    // TODO: implement initState
     super.initState();
     loadProductForCategory(categoryId)
     .then((result) {
@@ -38,7 +39,6 @@ class item extends State<ItemScreen> {
 
   @override
   Widget build(BuildContext context) {
-    // TODO: implement build
     IconData _backIcon() {
       switch (Theme
           .of(context)
@@ -166,7 +166,13 @@ class TravelDestinationItem extends StatelessWidget {
                                   child: Text( "Manufacture "+displayProduct.manufactureCount),
                                   textColor: Colors.amber.shade500,
                                   onPressed: () {
-                                    // Call manufacturer here
+                                    Navigator.push(
+                                        context,
+                                        MaterialPageRoute(
+                                            builder: (context) =>  ManufacturerListPage(
+                                              title:'Manufacturer'
+                                            )));
+
                                   },
                                   shape: new OutlineInputBorder(
                                     borderRadius: BorderRadius.circular(30.0),

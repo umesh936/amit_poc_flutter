@@ -111,7 +111,7 @@ class Home extends State<HomeScreen> {
                               children: <Widget>[
                                 Positioned.fill(
                                   child: Image.asset(
-                                    'images/hw3.jpg',
+                                    'images/manu_f_1.jpeg',
                                     fit: BoxFit.cover,
                                   ),
                                 ),
@@ -142,7 +142,7 @@ class Home extends State<HomeScreen> {
                               children: <Widget>[
                                 Positioned.fill(
                                   child: Image.asset(
-                                    'images/hw1.jpeg',
+                                    'images/manu_f_4.jpeg',
                                     fit: BoxFit.cover,
                                   ),
                                 ),
@@ -173,7 +173,7 @@ class Home extends State<HomeScreen> {
                               children: <Widget>[
                                 Positioned.fill(
                                   child: Image.asset(
-                                    'images/hw2.jpeg',
+                                    'images/manu_f_3.jpeg',
                                     fit: BoxFit.fitHeight,
                                   ),
                                 ),
@@ -204,7 +204,7 @@ class Home extends State<HomeScreen> {
                               children: <Widget>[
                                 Positioned.fill(
                                   child: Image.asset(
-                                    'images/hw3.jpg',
+                                    'images/manu_f_5.jpeg',
                                     fit: BoxFit.cover,
                                   ),
                                 ),

@@ -1,0 +1,54 @@
+﻿{
+  "status": 200,
+  "message": "Manufacturer List Found",
+  "body": [
+    {
+      "id": "1",
+      "imagePath": "images/manu_f_1.jpeg",
+      "name": "Manufacturer 1",
+      "locationName": "Rajkot, Gujrat",
+      "rating": "4",
+      "underPromotion": "false"
+    },
+    {
+      "id": "2",
+      "imagePath": "images/manu_f_2.jpeg",
+      "name": "Manufacturer 2",
+      "locationName": "Jamnagar, Gujrat",
+      "rating": "3",
+      "underPromotion": "false"
+    },
+    {
+      "id": "3",
+      "imagePath": "images/manu_f_3.jpeg",
+      "name": "Manufacturer 3",
+      "locationName": "jaipur, Rajasthan",
+      "rating": "4",
+      "underPromotion": "true"
+    },
+    {
+      "id": "4",
+      "imagePath": "images/manu_f_4.jpeg",
+      "name": "Manufacturer 4",
+      "locationName": "jodhpur, Rajasthan",
+      "rating": "4",
+      "underPromotion": "true"
+    },
+    {
+      "id": "5",
+      "imagePath": "images/manu_f_5.jpeg",
+      "name": "Manufacturer 5",
+      "locationName": "Rajkot, Gujrat",
+      "rating": "5",
+      "underPromotion": "true"
+    },
+    {
+      "id": "6",
+      "imagePath": "images/manu_f_6.jpeg",
+      "name": "Manufacturer 6",
+      "locationName": "Rajkot, Gujrat",
+      "rating": "1",
+      "underPromotion": "false"
+    }
+  ]
+}
