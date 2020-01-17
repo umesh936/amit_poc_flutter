@@ -1,2 +1,2 @@
-# Amit poc flutter
+# Flutter App for manufacturer
 
